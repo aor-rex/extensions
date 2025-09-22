@@ -3,7 +3,7 @@ const cheerio = require("cheerio");
 const axios = require("axios");
 
 // variables
-const baseUrl = "https://animepahe.com";
+const baseUrl = "https://animepahe.si";
 
 // Anime Search
 async function SearchAnime(query, {}) {
